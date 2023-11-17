@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 1200">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke: #231f20;
+        stroke-miterlimit: 10;
+        stroke-width: 40px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #231f20;
+      }
+
+      .cls-2 {
+        font-family: TrebuchetMS-Bold, 'Trebuchet MS';
+        font-size: 400px;
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  <text/>
+  <text class="cls-2" transform="translate(68.14 746.45)"><tspan x="0" y="0">Espacio</tspan></text>
+  <text class="cls-2" transform="translate(1599.19 742.45)"><tspan x="0" y="0">Nebula</tspan></text>
+  <line class="cls-1" x1="1528" y1="25.23" x2="1528" y2="1169.17"/>
+</svg>
